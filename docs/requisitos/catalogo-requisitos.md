@@ -283,7 +283,7 @@ FR-017 se conserva para no perder el identificador histórico, pero su estado es
 | NFR-09 |NFR-R (Interfaces existentes; Regulación y estándares) |El sistema debe mostrar un formulario donde el paciente pueda subir sus datos personales (peso, altura, etc.) con un desplegable con las medidas acordadas con el nutricionista anteriormente.| G | -  | Prueba de creación de un nuevo formulario con datos del paciente. | - |
 | NFR-10 |NFR-R (Interfaces existentes) |El sistema debe mostrar mensajes de validación junto a los campos en los cuales la información no se introduzca como se pide en las especificaciones.| G | -  | Prueba de introducir un dato en un formato no permitido y ver si avisa de que los parámetros introducidos no son válidos. | - |
 | NFR-11 |NFR-Q (Portabilidad) |El sistema debe ser accesible desde ordenador o móvil y mantener las funcionalidades clave funcionales.| G | -  | Prueba a utilizar la plataforma en el móvil y ver si puedo hacer las funcionalidades clave. | - |
-| NFR-12 |NFR-Q (Fiabilidad; Eficiencia) |El sistema debe permitir al usuario buscar recetas personalizadas y controlar los síntomas de su enfermedad.| L | -  | Enviar un cuestionario a los usuarios para saber si están satisfechos con la búsqueda de nuevas recetas y con la funcionalidad de controlar sus síntomas . | - |
+| NFR-12 |NFR-Q (Fiabilidad; Eficiencia) |El sistema debe permitir al usuario buscar recetas personalizadas.| L | -  | Enviar un cuestionario a los usuarios para saber si están satisfechos con la búsqueda de nuevas recetas. | - |
 
 
 Categorías y atributos: 
